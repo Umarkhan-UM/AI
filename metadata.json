@@ -1,0 +1,7 @@
+{
+  "name": "Haris Jani Jani - Ultra Modern AI Portal",
+  "description": "A cutting-edge, stylish website featuring Haris Gandkap AI with a high-performance design and unique aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
